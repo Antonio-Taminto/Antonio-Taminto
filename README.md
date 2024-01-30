@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antonio</h1>
 <h3 align="center">A passionate back-end develover from italy</h3>
 
-- 🌱 I’m currently learning **Java,mySQL**
+- 🌱 I’m currently learning **Java,mySQL,Spring Boot,Agile**
 
 - 📫 How to reach me **taminto.a@gmail.com**
 
